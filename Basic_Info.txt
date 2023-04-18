@@ -1,0 +1,9 @@
+Source code: 
+We have two jupyter source code file: 
+	1. ProjectPR_image_segmentation.ipynb 
+	2. ProjectPR_image_segmentation.ipynb
+
+We have two folder for data: data_image and data_csv. 
+We input data_image as raw data in "ProjectPR_image_segmentation.ipynb" the output save as csv file. We use these csv files in the "ProjectPR_image_segmentation.ipynb"
+
+ 
